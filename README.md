@@ -15,4 +15,7 @@ Excel (data cleaning, PivotTables) | Power BI (interactive dashboard) | SQL (ver
 ## Recommendations
 - Test a controlled discount reduction in South over one quarter to check if volume holds
 - Prioritize inventory and marketing spend around the December peak
-
+## Files
+- `retail_sales_analysis.xlsx` — raw data, cleaned data, cleaning log, and pivot table summary
+- `retail_sales_dashboard.pbix` — Power BI dashboard
+- `retail_sales_analysis.sql` — SQL verification queries
