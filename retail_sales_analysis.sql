@@ -1,9 +1,3 @@
-SET GLOBAL local_infile = 1;
-
-USE retail_sales;
-
-DROP TABLE IF EXISTS sales;
-
 CREATE TABLE sales (
     Order_ID VARCHAR(20),
     Order_Date DATE,
