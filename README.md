@@ -2,7 +2,7 @@
 Retail sales performance analysis using Excel, Power BI, and SQL- identifying regional discount inefficiencies and seasonal trends.
 ![Dashboard Screenshot](dashboard_screenshot.png)
 ## Business Problem
-A mid-sized retail company wanted to understand sales performance across regions, products, and customer segments to guide pricing and marketing decisions — specifically whether its regional discounting strategy was helping or hurting profitability.
+A mid-sized retail company wanted to understand sales performance across regions, products, and customer segments to guide pricing and marketing decisions specifically whether its regional discounting strategy was helping or hurting profitability.
 
 ## Tools Used
 Excel (data cleaning, PivotTables) | Power BI (interactive dashboard) | SQL (verification queries)
@@ -16,6 +16,6 @@ Excel (data cleaning, PivotTables) | Power BI (interactive dashboard) | SQL (ver
 - Test a controlled discount reduction in South over one quarter to check if volume holds
 - Prioritize inventory and marketing spend around the December peak
 ## Files
-- `retail_sales_analysis.xlsx` — raw data, cleaned data, cleaning log, and pivot table summary
-- `retail_sales_dashboard.pbix` — Power BI dashboard
-- `retail_sales_analysis.sql` — SQL verification queries
+- `retail_sales_analysis.xlsx`  raw data, cleaned data, cleaning log, and pivot table summary
+- `retail_sales_dashboard.pbix`  Power BI dashboard
+- `retail_sales_analysis.sql`  SQL verification queries
